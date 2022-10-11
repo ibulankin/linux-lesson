@@ -1,2 +1,2 @@
 # linux-lesson
-GB lesson
+GB lesson for me
